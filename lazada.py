@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.common.exceptions import *
 
-webdriver_path = '/Users/chok-at/Downloads/chromedriver' # Enter the file directory of the Chromedriver
+webdriver_path = '/Users/chokniran/Downloads/chromedriver' # Enter the file directory of the Chromedriver
 Lazada_url = 'https://www.lazada.co.th'
 search_item = 'ipadmini5' # Chose this because I often search for coffee!
 
